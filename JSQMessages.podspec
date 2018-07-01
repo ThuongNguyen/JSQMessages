@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 	s.summary = 'An elegant messages UI library for iOS.'
 	s.license = 'MIT'
 	s.platform = :ios, '7.0'
-	s.home = 'thuongnm.com'
+	s.homepage = 'thuongnm.com'
 
 	s.author = 'Jesse Squires'
 
